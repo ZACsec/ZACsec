@@ -14,7 +14,7 @@ bugcloud提交无条件RCE0day x7
 公安感谢信 x2  
 
 # Some Classic Articles Of Me
-https://paper.seebug.org/1928/
-https://mp.weixin.qq.com/s/06xnHetbKjmCtbBRJyhY4A
-https://mp.weixin.qq.com/s/O3KYuCSB7LD1lZts2g05Fg
-https://medium.com/@ZAC_SEC/dangerous-global-variables-78fda60f1ab
+https://paper.seebug.org/1928/  
+https://mp.weixin.qq.com/s/06xnHetbKjmCtbBRJyhY4A  
+https://mp.weixin.qq.com/s/O3KYuCSB7LD1lZts2g05Fg  
+https://medium.com/@ZAC_SEC/dangerous-global-variables-78fda60f1ab  
