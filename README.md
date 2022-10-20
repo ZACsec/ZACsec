@@ -12,6 +12,7 @@ EDUSRC证书 X7
 bugcloud提交无条件RCE0day x7  
 强网杯第六届（青少年专项赛）全国前五  
 公安感谢信 x2  
+公安授权书 x5
 
 # Some Classic Articles Of Me
 https://paper.seebug.org/1928/  
