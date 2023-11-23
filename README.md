@@ -11,7 +11,7 @@ CNVD证书 x22
 EDUSRC证书 X9  
 bugcloud提交无条件RCE0day x7   
 强网杯第六届（青少年专项赛）全国前五  
-公安感谢信 x3  
+市公安局感谢信 x4
 公安授权书 xN
 
 # Some Classic Articles Of Me
